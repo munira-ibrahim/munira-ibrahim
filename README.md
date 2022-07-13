@@ -8,7 +8,8 @@
 - 🐦Let's talk on [Twitter](https://twitter.com/Munira_Jiva)
 
 #### Favorite Tech
-<table align="center">
+<table align="left">
+  
   <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
@@ -17,16 +18,16 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
       <a href="#suhailakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://www.codestack.net/angular/angular.png" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
@@ -40,50 +41,34 @@
       </a>
       <br>Bootstrap
     </td>
+    
   </tr>
   
+  
   <tr>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+        <img src="https://i.pinimg.com/474x/a7/94/eb/a794ebf60081d2138fe243517cea6661.jpg" width="48" height="48" alt="C#" />
       </a>
-      <br>C Lang
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+        <img src="https://th.bing.com/th/id/OIP.bKl9ibY8IFhzkSzdlGPgVQAAAA?pid=ImgDet&rs=1" width="48" height="48" alt=".Net Core" />
       </a>
-      <br>Linux
+      <br>.Net core
     </td>
     <td align="center"  width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+        <img src="https://www.layer2solutions.com/images/default-source/solultions/sql-server-logo.tmb-height166.png?sfvrsn=c32ab681_1" width="48" height="48" alt="MS Sql Server" />
       </a>
-      <br>Gatsby
-    </td>
-    <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
+      <br>SQL Server
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
@@ -91,67 +76,38 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-  </tr>
+</tr>
+   
    <tr>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailakar-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
-      </a>
-      <br>Solidity
-    </td>
-     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+        <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB-150x150.png" width="48" height="48" alt="EF-Core" />
       </a>
-      <br>Redux
-    </td>
-          <td align="center" width="96"> 
+      <br>EF Core
+    </td> 
+   <td align="center" width="96">
       <a href="#suhailkakar-tech" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+        <img src="https://th.bing.com/th/id/R.eb6b12005ecc141591d553e77bf7ff15?rik=N65kZ4pUVjFgHg&riu=http%3a%2f%2fwww.networkcomputing.com%2fsites%2fdefault%2ffiles%2fresources%2fnwc%2fdocker-logo_0.png&ehk=BWjMTX36ge8tVEddaJ83GINAEWa62fsJ%2bsxlPl%2bboWY%3d&risl=&pid=ImgRaw&r=0" width="48" height="48" alt="Docker" />
       </a>
-      <br>Next JS
+      <br>Docker
+    </td>
+   <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/180px-Kubernetes_logo_without_workmark.svg.png" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
     </td>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
+        <img src="https://media.trustradius.com/product-logos/up/kQ/3H4MOI9FQDLL-180x180.PNG" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+   <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
         <img src="https://th.bing.com/th/id/OIP.m0ywymk-Z9NzmCXUeN6J8AAAAA?pid=ImgDet&rs=1" width="48" height="48" alt="AWS Cloud" />
       </a>
-      <br>G Cloud
+      <br>AWS Cloud
     </td>
   </tr>
     
