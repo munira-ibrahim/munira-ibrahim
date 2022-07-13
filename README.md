@@ -4,8 +4,8 @@
 - 🔭 I’m currently working at CitiusTech,Pune
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on Cloud Native Projects
-- 📫 Connect with me on ![LinkedIn](linkedin.com/in/munira-jiva-7b6b821b1)
-- 🕊 Let's talk on ![Twitter](@Munira_Jiva)
+- 📫 Connect with me on [LinkedIn](linkedin.com/in/munira-jiva-7b6b821b1)
+- 🕊 Let's talk on [Twitter](@Munira_Jiva)
 
 
 <!--
